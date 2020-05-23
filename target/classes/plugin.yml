@@ -1,0 +1,4 @@
+name: SeedProtector
+version: 1.0-SNAPSHOT
+main: dev.thesourcecode.seeds.SeedProtector
+api-version: "1.15"
